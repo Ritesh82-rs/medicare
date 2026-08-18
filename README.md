@@ -201,5 +201,3 @@ medicare-ai/
 MIT License – Free for educational and personal use.
 
 ---
-
-**Built with ❤️ for college project demonstration**
